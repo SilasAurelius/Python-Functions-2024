@@ -61,3 +61,4 @@ print(f"Positive words: {positive_count}, Negative words: {negative_count}")
 
 for review in reviews:
     print(review_summary(review))
+
